@@ -88,6 +88,6 @@
 - [JavaScript 版数据结构与算法](https://github.com/JTangming/algorithms)
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 - [awesome 算法](https://github.com/apachecn/awesome-algorithm)
-- [algorithm 个人总结类](algorithm 个人总结类)
+- [algorithm 个人总结类](https://github.com/JesseZhao1990/algorithm)
 - [动图学算法](https://github.com/MisterBooo/LeetCodeAnimation)
 - [leetcode](https://github.com/azl397985856/leetcode)
